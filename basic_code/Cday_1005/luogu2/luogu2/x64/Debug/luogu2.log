@@ -1,0 +1,10 @@
+﻿  luogu2.c
+D:\Develop\clanguage\myCode\basic_code\Cday_1005\luogu2\luogu2\luogu2.c(50,22): error C2065: “arr”: 未声明的标识符
+D:\Develop\clanguage\myCode\basic_code\Cday_1005\luogu2\luogu2\luogu2.c(50,25): error C2109: 下标要求数组或指针类型
+D:\Develop\clanguage\myCode\basic_code\Cday_1005\luogu2\luogu2\luogu2.c(50,16): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+      D:\Develop\clanguage\myCode\basic_code\Cday_1005\luogu2\luogu2\luogu2.c(50,16):
+      占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+      D:\Develop\clanguage\myCode\basic_code\Cday_1005\luogu2\luogu2\luogu2.c(50,16):
+      缺失的可变参数 1 为格式字符串“%d”所需
+  
+D:\Develop\clanguage\myCode\basic_code\Cday_1005\luogu2\luogu2\luogu2.c(19,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
