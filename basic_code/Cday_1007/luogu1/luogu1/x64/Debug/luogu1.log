@@ -1,0 +1,4 @@
+﻿  luogu1.c
+D:\Develop\clanguage\myCode\basic_code\Cday_1007\luogu1\luogu1\luogu1.c(20,30): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Develop\clanguage\myCode\basic_code\Cday_1007\luogu1\luogu1\luogu1.c(10,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  luogu1.vcxproj -> D:\Develop\clanguage\myCode\basic_code\Cday_1007\luogu1\x64\Debug\luogu1.exe
